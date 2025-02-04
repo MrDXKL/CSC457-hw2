@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CV</title>
+</head>
+<body>
+
+    <header>
+        <h1>السيرة الذاتية</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">الرئيسية</a></li>
+            <li><a href="cv.html">السيرة الذاتية</a></li>
+            <li><a href="projects.html">المشاريع</a></li>
+            <li><a href="contact.html">اتصل بي</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <section>
+            <h2>التعليم</h2>
+            <p>بكالوريوس في علوم الحاسب - جامعة XYZ</p>
+        </section>
+
+        <section>
+            <h2>الخبرات</h2>
+            <article>
+                <h3>مطور ويب</h3>
+                <p>عملت في تطوير مواقع ويب باستخدام HTML و CSS و JavaScript.</p>
+            </article>
+        </section>
+
+        <blockquote>“النجاح لا يأتي إلا بالعمل الجاد.”</blockquote>
+    </main>
+
+</body>
+</html>

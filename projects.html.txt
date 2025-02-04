@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Projects</title>
+</head>
+<body>
+
+    <header>
+        <h1>مشاريعي</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">الرئيسية</a></li>
+            <li><a href="cv.html">السيرة الذاتية</a></li>
+            <li><a href="projects.html">المشاريع</a></li>
+            <li><a href="contact.html">اتصل بي</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <article>
+            <h2>مشروع 1</h2>
+            <p>هذا المشروع يتعلق بتطوير تطبيق ويب...</p>
+            <time>2024</time>
+            <figure>
+                <img src="project1.jpg" alt="مشروع 1">
+                <figcaption>صورة توضح المشروع الأول</figcaption>
+            </figure>
+            <a href="#">رابط المشروع</a>
+        </article>
+
+        <article>
+            <h2>مشروع 2</h2>
+            <p>مشروع آخر يركز على التعلم الآلي...</p>
+            <time>2023</time>
+            <figure>
+                <img src="project2.jpg" alt="مشروع 2">
+                <figcaption>صورة توضح المشروع الثاني</figcaption>
+            </figure>
+            <a href="#">رابط المشروع</a>
+        </article>
+    </main>
+
+</body>
+</html>

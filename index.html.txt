@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Home</title>
+</head>
+<body>
+
+    <header>
+        <h1>مرحبًا بك في موقعي</h1>
+    </header>
+
+    <nav>
+        <ul>
+            <li><a href="index.html">الرئيسية</a></li>
+            <li><a href="cv.html">السيرة الذاتية</a></li>
+            <li><a href="projects.html">المشاريع</a></li>
+            <li><a href="contact.html">اتصل بي</a></li>
+        </ul>
+    </nav>
+
+    <main>
+        <h2>نبذة عني</h2>
+        <p>أنا طالب مهتم بتطوير الويب...</p>
+        
+        <h2>اهتماماتي</h2>
+        <ul>
+            <li>البرمجة</li>
+            <li>التصوير</li>
+            <li>السفر</li>
+        </ul>
+    </main>
+
+    <footer>
+        <p>&copy; 2025 جميع الحقوق محفوظة</p>
+    </footer>
+
+</body>
+</html>
